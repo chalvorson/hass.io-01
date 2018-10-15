@@ -1,3 +1,3 @@
 # Hass.io - Installing Linux
 
-Forked from hasscasts, only added one line for the LTS edition of Ubuntu Server.
+Forked from https://github.com/hasscasts/hass.io-01, only added one line for the LTS edition of Ubuntu Server.
